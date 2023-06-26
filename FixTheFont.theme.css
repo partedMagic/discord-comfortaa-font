@@ -10,15 +10,15 @@
 */
 
 /* Imports */
-@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;200;400;500;600;700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Source Code Pro:wght@550&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;700&display=swap');
 
-@import url("https://raw.githubusercontent.com/Septhev/Fix-Discord-Font/main/margins.css");
+@import url("https://raw.githubusercontent.com/partedMagic/discord-comfortaa-font/main/margins.css");
 
 :root {
     --version1_0_6: none;
-    --font: "Lato";
-    --code-font: "Source Code Pro";
+    --font: "Comfortaa";
+    --code-font: "Comfortaa";
 }
-
-/*-Made by @Cradex with most of code made by The CommiteAxolotl#0001-*/
