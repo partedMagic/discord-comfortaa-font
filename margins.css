@@ -3,7 +3,7 @@
 }
 
 #app-mount .app-2CXKsg::before {
-    content: "Your version of Discord-Original-Font is outdated. Please download the newest version from source";
+    /*content: "ass";*/
     display: var(--version1_0_6, block);
     background-color: var(--brand-experiment);
     color: #fff;
